@@ -81,8 +81,8 @@ section:nth-child(odd) {
 .first-section{
     height: 800px;
     padding-bottom: 103.663px;
-    padding-left: 150px;
-    padding-right: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 *{
